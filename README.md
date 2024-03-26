@@ -1,4 +1,7 @@
+![2](https://github.com/aditya2op/sociallyAnAPI/assets/140917322/b105e2da-d45d-42a1-b5bc-c63179060bbc)![Uploading Untitled design.png…]()
 # sociallyAnAPI REST API
+
+
 
 A comprehensive collection of REST APIs for building a social media platform using Node.js, Express.js, and MongoDB. These APIs cover a wide range of features from fundamental CRUD operations to advanced functionalities like authentication, image and story uploads, comments, likes, messaging, and more.
 
