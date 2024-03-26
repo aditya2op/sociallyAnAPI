@@ -1,5 +1,6 @@
 ![2](https://github.com/aditya2op/sociallyAnAPI/assets/140917322/b105e2da-d45d-42a1-b5bc-c63179060bbc)
-![Untitled design](https://github.com/aditya2op/sociallyAnAPI/assets/140917322/06273e12-dfd0-4458-ba60-9f453bff3f45)
+<img width="485" alt="image" src="https://github.com/aditya2op/sociallyAnAPI/assets/140917322/ce2db3a1-3545-45ad-bcba-4d0b002b2056">
+
 
 # sociallyAnAPI REST API
 
