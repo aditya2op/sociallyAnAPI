@@ -1,4 +1,5 @@
-![2](https://github.com/aditya2op/sociallyAnAPI/assets/140917322/b105e2da-d45d-42a1-b5bc-c63179060bbc)
+<img width="501" alt="image" src="https://github.com/aditya2op/sociallyAnAPI/assets/140917322/be7d8a79-a7f7-4727-b637-efdc05abb256">
+
 <img width="485" alt="image" src="https://github.com/aditya2op/sociallyAnAPI/assets/140917322/ce2db3a1-3545-45ad-bcba-4d0b002b2056">
 
 
